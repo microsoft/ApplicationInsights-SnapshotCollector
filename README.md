@@ -1,14 +1,11 @@
-# Project
+# Application Insights Snapshot Collector
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo tracks issues for the [Microsoft.ApplicationInsights.SnapshotCollector](https://www.nuget.org/packages/Microsoft.ApplicationInsights.SnapshotCollector) NuGet package.
+You may use it to ask questions, suggest features and report bugs.
 
-As the maintainer of this project, please make a few updates:
+The Snapshot Collector NuGet package is part of the [Application Insights Snapshot Debugger](https://docs.microsoft.com/azure/azure-monitor/app/snapshot-debugger).
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Before creating a new bug report, please check the [troubleshooting documentation](https://docs.microsoft.com/azure/azure-monitor/app/snapshot-debugger-troubleshoot).
 
 ## Contributing
 
