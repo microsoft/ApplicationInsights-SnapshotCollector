@@ -7,6 +7,8 @@ The Snapshot Collector NuGet package is part of the [Application Insights Snapsh
 
 Before creating a new bug report, please check the [troubleshooting documentation](https://docs.microsoft.com/azure/azure-monitor/app/snapshot-debugger-troubleshoot).
 
+Also check out the [Discussions](https://github.com/microsoft/ApplicationInsights-SnapshotCollector/discussions) section for Q&A, ideas and community content.
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
