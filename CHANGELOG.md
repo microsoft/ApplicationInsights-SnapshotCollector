@@ -6,7 +6,8 @@ This section contains the release notes for the `Microsoft.ApplicationInsights.S
 
 For bug reports and feedback, [open an issue on GitHub](https://github.com/microsoft/ApplicationInsights-SnapshotCollector).
 
-[!INCLUDE [azure-monitor-log-analytics-rebrand](~/reusable-content/ce-skilling/azure/includes/azure-monitor-instrumentation-key-deprecation.md)]
+**Note:**
+This article was recently updated to use the term Azure Monitor logs instead of Log Analytics. Log data is still stored in a Log Analytics workspace and is still collected and analyzed by the same Log Analytics service. We are updating the terminology to better reflect the role of [logs in Azure Monitor](/azure/azure-monitor/logs/data-platform-logs). See [Azure Monitor terminology changes](/azure/azure-monitor/terminology) for details.
 
 ## [1.4.6](https://www.nuget.org/packages/Microsoft.ApplicationInsights.SnapshotCollector/1.4.6)
 A point release to address a regression when using .NET 8 applications.
